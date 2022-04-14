@@ -1,0 +1,44 @@
+.container{
+    width: 50%;
+    justify-items: center;
+    margin-top: 7%;
+    background-color:#F3FFF6;
+}
+.card{
+    background-color:#F3FFF6;
+}
+input[type = text]{
+    border-color: #006c45;
+    margin-top: 50px;
+    height:55px;
+}
+select{
+    border-color: #006c45;
+    margin-top: 50px;
+    height:55px;
+    color: #006c45;
+    font-weight: bold;
+}
+.radio{
+    border-color: #006c45;
+    margin-top: 50px;
+    height:55px;
+    color: #006c45;
+}
+input[type=radio]{
+    margin-left:35px;
+}
+label{
+    position: absolute;
+    margin-top: -28px;
+    margin-left: 5px;
+    color: #006c45;
+    font-weight: bold;
+}
+.btn{
+    background-color: 006c45;
+    border-radius: 15px;
+    width:25%;
+    margin-top: 15px;
+    margin-left: 35%;
+}

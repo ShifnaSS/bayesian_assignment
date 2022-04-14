@@ -1,0 +1,26 @@
+.container{
+    width: 50%;
+    justify-items: center;
+    margin-top: 18%;
+    background-color:#F3FFF6;
+}
+.card{
+    background-color:#F3FFF6;
+}
+input[type = text]{
+    border-color: #006c45;
+    margin-top: 15px;
+    height:55px;
+}
+label{
+    position: absolute;
+    margin-top: -12px;
+    margin-left: 5px;
+}
+.btn{
+    background-color: 006c45;
+    border-radius: 15px;
+    width:25%;
+    margin-top: 15px;
+    margin-left: 35%;
+}

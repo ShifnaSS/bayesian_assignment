@@ -1,0 +1,24 @@
+.container{
+    width: 50%;
+    justify-items: center;
+    margin-top: 7%;
+}
+.card{
+    background-color:#F3FFF6;
+}
+.form-label{
+    /* position: absolute; */
+    /* margin-top: -28px; */
+    /* margin-left: 5px; */
+    color: #006c45;
+    font-weight: bold;
+    margin-left: 5%;
+}
+.form-group{
+    margin-top: 10%;
+}
+.new{
+    margin-left: 35%;
+    position: relative;
+}
+
